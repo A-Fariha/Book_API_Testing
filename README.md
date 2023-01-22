@@ -1,1 +1,1 @@
-# peactice project
+# practice project
